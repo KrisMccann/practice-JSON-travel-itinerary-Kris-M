@@ -1,0 +1,42 @@
+{
+  "tripName": "European Adventure",
+  "traveler": {
+    "name": "Kris McCann",
+    "contact": {
+      "email": "kris@example.com",
+      "phone": "555-123-4567"
+    }
+  },
+  "destinations": [
+    {
+      "location": "Paris",
+      "arrivalDate": "2026-11-10",
+      "departureDate": "2026-11-13",
+      "activities": [
+        {
+          "title": "Visit the Eiffel Tower",
+          "time": "10:00 AM"
+        },
+        {
+          "title": "Louvre Museum Tour",
+          "time": "2:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "London",
+      "arrivalDate": "2026-11-13",
+      "departureDate": "2026-11-16",
+      "activities": [
+        {
+          "title": "Visit Buckingham Palace",
+          "time": "11:00 AM"
+        },
+        {
+          "title": "London Eye",
+          "time": "4:00 PM"
+        }
+      ]
+    }
+  ]
+}
