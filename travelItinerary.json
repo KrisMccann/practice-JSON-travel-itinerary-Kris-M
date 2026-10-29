@@ -12,6 +12,12 @@
       "location": "Paris",
       "arrivalDate": "2026-11-10",
       "departureDate": "2026-11-13",
+      "transportation":[
+        {
+          "mode":"Flight",
+          "cost":230.00
+        }
+      ],
       "activities": [
         {
           "title": "Visit the Eiffel Tower",
@@ -27,6 +33,12 @@
       "location": "London",
       "arrivalDate": "2026-11-13",
       "departureDate": "2026-11-16",
+      "transportation":[
+        {
+          "mode":"Train",
+          "cost":80.00
+        }
+      ],
       "activities": [
         {
           "title": "Visit Buckingham Palace",
@@ -35,6 +47,27 @@
         {
           "title": "London Eye",
           "time": "4:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Greece",
+      "arrivalDate": "2026-11-16",
+      "departureDate": "2026-11-19",
+      "transportation":[
+        {
+          "mode":"Train",
+          "cost":90.00
+        }
+      ],
+      "activities": [
+        {
+          "title": "Visit The Acropolis and Parthenon",
+          "time": "1:00 PM"
+        },
+        {
+          "title": "Tour Palace of Knossos",
+          "time": "5:00 PM"
         }
       ]
     }
